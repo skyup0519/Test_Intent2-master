@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Exams>
+<Exam>
+    <Question>(raw)請問 &#xa0;&#xa0;&#xa0; \"1\" +1 &#xa0;&#xa0;&#xa0;  的結果是?</Question>
+    <QuestionA>編譯失敗</QuestionA>
+    <QuestionB>2</QuestionB>
+    <QuestionC>11</QuestionC>
+</Exam>
+
+
+<Exam>
+<Question>        <![CDATA[
+        (raw)請問
+        <br><br>
+        &#xa0;&#xa0;&#xa0; <b><font color="blue">&lt;merge &gt;<font></b>
+        <br><br>
+        在layout的用途?
+        ]]></Question>
+<QuestionA>根本沒有這功能</QuestionA>
+<QuestionB>版本控制用來合併不同的分支</QuestionB>
+<QuestionC><![CDATA[
+將一個layout併入另一個layout,可節省一層<b>ViewGroup</b>
+
+        ]]> </QuestionC>
+</Exam>
+
+
+
+<Exam>
+<Question><![CDATA[
+    (raw)請問<br>
+    切換avtivity 需要用什麼方法?
+    ]]>
+</Question>
+<QuestionA>startActivity()</QuestionA>
+<QuestionB>startAvtivityForResult</QuestionB>
+<QuestionC>以上皆是</QuestionC>
+
+</Exam>
+</Exams>
